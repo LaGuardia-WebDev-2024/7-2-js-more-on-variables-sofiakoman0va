@@ -30,7 +30,8 @@ void draw(){
 
   fill(237, 82, 154); //mouth
   ellipse(x, y + 10, 130, 70)
-  
+  x = mouseX
+  y = mouseY
 
 }
 
